@@ -1,7 +1,7 @@
 .settings/
-#.idea/
+.idea/
 .vscode/
-#target/
+target/
 .project
 .classpath
 .factorypath
