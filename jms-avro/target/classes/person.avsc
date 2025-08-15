@@ -1,9 +1,0 @@
-{
-   "namespace": "it.fvaleri.jms",
-   "type": "record",
-   "name": "Person",
-   "fields": [
-       {"name": "name", "type": "string"},
-       {"name": "address", "type": ["string", "null"]}
-   ]
-}
